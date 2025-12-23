@@ -1,0 +1,7 @@
+path: dataset
+train: /train
+val: /valid
+nc: 2
+names:
+  0: balloon
+  1: drone
